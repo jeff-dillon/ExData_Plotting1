@@ -1,7 +1,7 @@
 # Data Science: Exploratory Data Analysis: Week 1: plot1
 # Author: Jeff Dillon
 # Description: Reads in household power consumption data and generates a histogram
-# of Global active power for Jan 1-2, 2007.
+# of Global active power for Feb 1-2, 2007.
 library(readr)
 
 # load the data from the file in chunks, only taking the rows that match the needed dates
